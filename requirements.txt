@@ -1,0 +1,6 @@
+torch>=2.0.0
+datasets>=2.14.0
+tokenizers>=0.14.0
+sentencepiece>=0.1.99
+tqdm>=4.65.0
+numpy>=1.23.0

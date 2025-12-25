@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Model checkpoints
+*.pt
+
+# Tokenizers
+tokenizer_*.json
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
