@@ -34,7 +34,7 @@ This makes the project suitable for:
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
