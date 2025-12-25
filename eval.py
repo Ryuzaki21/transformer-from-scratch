@@ -1,4 +1,4 @@
-%%writefile /kaggle/working/MyTransformer/eval.py
+
 import torch
 import glob
 from dataset import load_opus_en_hi, causal_mask
